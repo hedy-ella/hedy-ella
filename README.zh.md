@@ -1,12 +1,10 @@
 <h1 align=center>Hugo Theme Ladder | <a href="https://hugo-ladder.pages.dev/" rel="nofollow">Demo</a></h1>
 
-<h4 align=center>🌈 Clean | ⏩ Fast | 📰 Focus on Reading | 🌐 Multi language | 🌙 Multi Dark Theme | 📱 Mobile support</h4>
+<h4 align=center>🌈 简洁 | ⏩ 快速 | 📰 聚焦阅读 | 🌐 多语言 | 🌙 多种样式 | 📱 移动端支持</h4>
 
-English README | [简体中文说明](README.zh.md)
+[Demo 网站](https://hugo-ladder.pages.dev/zh/) 包括了所有的安装文档信息，例如如何免费构建独立的博客网站，如何。你可以通过直接访问网站，来获得原生体验。
 
-The [Demo | ExampleSite](https://hugo-ladder.pages.dev/) includes a lot of documentation about Installation, Features with a few more stuff. Make sure you visit it, to get an awesome hands-on experience and get to know about the features ...
-
-Demo is built up with [exampleSite Source Code](https://github.com/guangzhengli/hugo-ladder-exampleSite) (https://github.com/guangzhengli/hugo-ladder-exampleSite) as source.
+Demo 网站是通过这个仓库构建而来 [exampleSite Source Code](https://github.com/guangzhengli/hugo-ladder-exampleSite) (https://github.com/guangzhengli/hugo-ladder-exampleSite)。
 
 [![Hugo Version](https://img.shields.io/static/v1?label=hugo-version&message=0.99.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.99.0)[![GitHub license](https://img.shields.io/github/license/guangzhengli/hugo-theme-ladder)](https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE)[![GitHub stars](https://img.shields.io/github/stars/guangzhengli/hugo-theme-ladder)](https://github.com/guangzhengli/hugo-theme-ladder/stargazers)[![GitHub forks](https://img.shields.io/github/forks/guangzhengli/hugo-theme-ladder)](https://github.com/guangzhengli/hugo-theme-ladder/network)
 
@@ -19,30 +17,25 @@ Demo is built up with [exampleSite Source Code](https://github.com/guangzhengli/
 
 ---
 
-## Documentations [`docs`](docs/home.md)
+## 文档 [`docs`](docs/home.md)
 
 See [`docs`](docs/home.md) folder.
 
-### Basic Usage
+### 基础使用
 
 * [Quick Start](docs/quick-start.md)
 * [Configurations](docs/configurations.md)
 
-### Extra Guides
+### 高级用法
 
 * [Multi Language](docs/multi-language.md)
 * [Comment System](docs/comment-system.md)
 * [Analytics](docs/analytics.md)
 * [Analytics Umami](docs/umami.md)
 
-## Quick Start
+## 快速开始
 
-Use this command to start.
-```shell
-hugo server -s exampleSite --themesDir=../.. --disableFastRender
-```
-
-Or click `Use this template` to create your blog site in the [exampleSite Repository](https://github.com/guangzhengli/hugo-ladder-exampleSite).
+Just click `Use this template` to create your blog site in the [exampleSite Repository](https://github.com/guangzhengli/hugo-ladder-exampleSite).
 
 Create a new repository(GitHub Pages) from hugo-ladder-exampleSite to enter : `username.github.io`.
 
@@ -54,7 +47,7 @@ Then configure the GitHub page setting following:
 
 🎉🎉🎉 Open the browser and enter: https://username.github.io 🎉🎉🎉
 
-## Minimal Configuration
+## 最小配置
 
 Clone your repository.
 
@@ -84,10 +77,9 @@ Following this [article](https://guangzhengli.com/blog/en/how-to-create-your-blo
 
 Following this [article](https://guangzhengli.com/blog/en/how-to-integrate-umami-for-free-to-blog-site/) to configure the umami analytics
 
-
 ## Sponsor
 
-if you like this theme, you can sponsor me to buy a cup of coffee.
+如果这份教程对你有帮助，欢迎请作者喝杯咖啡。
 https://guangzhengli.com/sponsors
 
 ## Special Thanks
